@@ -1,5 +1,5 @@
 
-## Olá me chamo Yuri, tenho 19 anos, Resido na capital de São Paulo, e busco me especializar na área da tecnologia da informação
+## Olá me chamo Yuri, e seja bem vindo ao meu perfil no github.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Netunosz&theme=prussian&show_icons=true)
 
