@@ -1,5 +1,4 @@
 
-Olá, Bem vindo!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Netunosz&theme=prussian&show_icons=true)
 
 <div style="display: inline_block"><br>
