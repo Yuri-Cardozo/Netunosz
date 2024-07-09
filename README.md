@@ -1,8 +1,5 @@
 
-
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Bem-Vindo!;Front-end+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1+Pessoal;Meu+nome+%C3%A9+Yuri+Cardozo;+Eu+sou++Desenvolvedor+Front-end+;Sejam+Bem+Vindos+ao+meu+Portioflio+" alt="Typing SVG" /></a>
 
 
 
